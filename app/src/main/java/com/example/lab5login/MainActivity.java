@@ -12,7 +12,6 @@ public class MainActivity extends AppCompatActivity {
     EditText username, password;
     Button signup, signin;
     DBHelper DB;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
